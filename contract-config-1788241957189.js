@@ -41,12 +41,20 @@ window.MINING_CONFIG = {
       "initialized": true,
       "miningActive": true,
       "rewardBudget": "4200000000000000000000000000",
-      "remainingRewards": "4200000000000000000000000000",
+      "remainingRewards": "4183717500000000000000000000",
       "rewardPerSecond": "1300000000000000000000",
       "startTime": "1788230475",
       "minStake": "50000000000000000",
       "maxStake": "340282366920938463463374607431768211455",
-      "eligibility": "0xCad35B1d45435847F4a1C047B85eBf001C7DCac7"
+      "eligibility": "0xCad35B1d45435847F4a1C047B85eBf001C7DCac7",
+      "emitted": "16282500000000000000000000",
+      "totalStaked": "250000000000000000",
+      "totalStakedEver": "250000000000000000",
+      "lastRewardTime": "1788240913",
+      "accRewardPerShare": "247520000000000000000000000",
+      "undistributedRewards": "0",
+      "undistributedRewardRemainder": "0",
+      "forfeitedRewards": "0"
     },
     {
       "planetId": 2,
@@ -58,7 +66,15 @@ window.MINING_CONFIG = {
       "startTime": "4102444800",
       "minStake": "50000000000000000",
       "maxStake": "340282366920938463463374607431768211455",
-      "eligibility": "0x0000000000000000000000000000000000000000"
+      "eligibility": "0x0000000000000000000000000000000000000000",
+      "emitted": "0",
+      "totalStaked": "0",
+      "totalStakedEver": "0",
+      "lastRewardTime": "4102444800",
+      "accRewardPerShare": "0",
+      "undistributedRewards": "0",
+      "undistributedRewardRemainder": "0",
+      "forfeitedRewards": "0"
     },
     {
       "planetId": 3,
@@ -70,7 +86,15 @@ window.MINING_CONFIG = {
       "startTime": "4102444800",
       "minStake": "50000000000000000",
       "maxStake": "340282366920938463463374607431768211455",
-      "eligibility": "0x0000000000000000000000000000000000000000"
+      "eligibility": "0x0000000000000000000000000000000000000000",
+      "emitted": "0",
+      "totalStaked": "0",
+      "totalStakedEver": "0",
+      "lastRewardTime": "4102444800",
+      "accRewardPerShare": "0",
+      "undistributedRewards": "0",
+      "undistributedRewardRemainder": "0",
+      "forfeitedRewards": "0"
     },
     {
       "planetId": 4,
@@ -82,7 +106,15 @@ window.MINING_CONFIG = {
       "startTime": "4102444800",
       "minStake": "50000000000000000",
       "maxStake": "340282366920938463463374607431768211455",
-      "eligibility": "0x0000000000000000000000000000000000000000"
+      "eligibility": "0x0000000000000000000000000000000000000000",
+      "emitted": "0",
+      "totalStaked": "0",
+      "totalStakedEver": "0",
+      "lastRewardTime": "4102444800",
+      "accRewardPerShare": "0",
+      "undistributedRewards": "0",
+      "undistributedRewardRemainder": "0",
+      "forfeitedRewards": "0"
     }
   ],
   "startTime": "1788230475",
